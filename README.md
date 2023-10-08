@@ -1,4 +1,4 @@
-<h1 align = "center">Berlin Fashion🛒</h1>
+<h1 align = "center">Merlin Fashion🛒</h1>
 
 
 <p align="center">Refresh Your Wardrobe!🛍️ 
